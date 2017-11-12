@@ -1,4 +1,4 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
 02,C SF  L,441.075000,+,5.000000,Tone,100.0,88.5,023,NN,FM,5.00,,,,,,
 02,C SF  R,441.075000,+,5.000000,Tone,167.9,88.5,023,NN,FM,5.00,,,,,,
 03,C PT AL,443.075000,+,5.000000,Tone,100.0,88.5,023,NN,FM,5.00,,,,,,
