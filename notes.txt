@@ -1,0 +1,33 @@
+Hi,
+A few of the repeater frequencies and offsets have changed.
+This has been verified as of Dec 21, 2020
+
+The one you want to replace carla.csv with is new-carla-b.csv
+I've included all of the work here so you can see how I got to 
+the updates.
+
+l0r3zz@tarnover:[2020-12-21 09:03:48]-$diff carla-b.csv new-carla-b.csv
+2c2
+< 1,C SF  L,441.075,+,5,Tone,100,88.5,23,NN,FM,5,,,,,,
+---
+> 1,C SF  L,442.075,+,5,Tone,100,88.5,23,NN,FM,5,,,,,,
+62,67c62,67
+< 61,C PAC L,440.725,+,5,Tone,114.8,88.5,23,NN,FM,5,,,,,,
+< 62,C PAC R,440.725,+,5,Tone,167.9,88.5,23,NN,FM,5,,,,,,
+< 63,C GUA L,147,+,0.6,Tone,114.8,88.5,23,NN,FM,5,,,,,,
+< 64,C GUA R,147,+,0.6,Tone,173.8,88.5,23,NN,FM,5,,,,,,
+< 65,C OAK L,443.05,+,5,Tone,103.5,88.5,23,NN,FM,5,,,,,,
+< 66,C OAK R,443.05,+,5,Tone,173.8,88.5,23,NN,FM,5,,,,,,
+---
+> 61,C PAC R,440.725,+,5,Tone,167.9,88.5,23,NN,FM,5,,,,,,
+> 62,C PAC L,440.725,+,5,Tone,114.8,88.5,23,NN,FM,5,,,,,,
+> 63,C GUA R,147,+,5,Tone,173.8,88.5,23,NN,FM,5,,,,,,
+> 64,C GUA L,147,+,5,Tone,114.8,88.5,23,NN,FM,5,,,,,,
+> 65,C OK2 R,146.85,-,0.6,Tone,162.2,88.5,23,NN,FM,5,,,,,,
+> 66,C OK2 L,146.85,-,0.6,Tone,103.5,88.5,23,NN,FM,5,,,,,,
+
+
+I am active on a few of these repeaters and this is what I
+currently have flashed in my handsets.
+
+Geoff
